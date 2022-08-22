@@ -2,7 +2,7 @@
 ***PROYECTO FINAL***
 
 ______
-1.    IDENTIFICACIÓN
+**1.IDENTIFICACIÓN**
 
 Proyecto:REY KANINO
 
@@ -47,8 +47,8 @@ Consultar con el familiar que tiene la peluquería canina así él nos podrá co
  REY KANINO
  
  ¿Qué logo la identifica?
- 
- 
+ ![image](https://user-images.githubusercontent.com/54339107/185948511-667179a7-fbd9-4956-8a0b-684b5ab9c289.png)
+
 ¿cuál es su misión?
 
 Nuestra misión es proporcionar servicios de excelente calidad basados en la ética y el respeto hacia los animales. Nuestra especialidad es el cuidado a las mascotas.
@@ -124,4 +124,8 @@ Ciclo uno de desarrollo
 
 Ciclo dos de desarrollo
 (Diseño físico)	s17
+
+**Modelo Conceptual General**
+
+![image](https://user-images.githubusercontent.com/54339107/185948640-18e0ce25-662a-4e96-8c43-d1b0fffa01f7.png)
 
